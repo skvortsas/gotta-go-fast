@@ -1,0 +1,31 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+}
+
+h2{
+    text-align: center
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    list-style: none;
+}
+
+.man1{
+    height: 64px;
+    width: 64px;
+    background: url('http://i.imgur.com/zsigm.png') 0 -128px;
+}
+
+.man2{
+    height: 64px;
+    width: 64px;
+    background: url('http://i.imgur.com/J1eVJ.png') 0 -128px;
+}
+
+.game{
+    text-align: center;
+}
